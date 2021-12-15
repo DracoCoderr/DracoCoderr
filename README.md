@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DracoCoderr
+- 👋 Hi, I’m DracoCoder
 - 👀 I’m interested in Learning New Techonology
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on Google
